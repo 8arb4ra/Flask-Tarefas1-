@@ -9,7 +9,7 @@ body{
 button{
    color: rgb(58, 13, 13);
    background-color: rgb(136, 71, 71);
-   padding: 20px 10px;
+   padding: 10px 40px;
 
 }
 
@@ -24,7 +24,7 @@ input{
   padding: 30px;
   max-width: 300px;
   margin: auto;
-  border: 1px solid color(srgb red green blue);
+  border: 1px solid color(srgb rgb(187, 64, 64) rgba(223, 0, 0, 0.685) rgba(255, 0, 0, 0.801));
   border-radius: 10px;
 
 }
